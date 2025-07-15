@@ -1,11 +1,10 @@
 # aws-cloud-projects-portfolio
-# 🟦 AWS Cloud Projects Portfolio
 
 A curated collection of 10 hands-on AWS projects that demonstrate my practical knowledge of cloud computing, infrastructure automation, monitoring, cost optimization, and security best practices. Each project focuses on a specific AWS service, built with real-world use cases and documented with deployment steps.
 
 ---
 
-## 📂 Project List
+##Project List
 
 | # | Project Title                        | AWS Service(s) Used                    | Description |
 |---|--------------------------------------|----------------------------------------|-------------|
